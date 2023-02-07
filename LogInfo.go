@@ -1,4 +1,4 @@
-package logtb
+package log4g
 
 // ログレベルとログメッセージを保持する構造体
 type LogInfo struct {

@@ -1,4 +1,4 @@
-package logtb
+package log4g
 
 // ログレベルを保持するEnum
 type LogLevelEnum string

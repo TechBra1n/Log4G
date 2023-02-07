@@ -1,4 +1,4 @@
-package logtb
+package log4g
 
 import (
 	"fmt"
