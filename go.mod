@@ -1,4 +1,4 @@
-module github.com/TechBrainDevOps/Log4G/logtb
+module github.com/TechBra1n/Log4G/logtb
 
 go 1.19
 
