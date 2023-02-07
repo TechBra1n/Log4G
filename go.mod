@@ -1,4 +1,4 @@
-module github.com/TechBra1n/log4g
+module github.com/techbra1n/log4g
 
 go 1.19
 
